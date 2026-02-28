@@ -1,0 +1,476 @@
+{
+  "product_context": {
+    "product_name": "外贸独立站视频营销SaaS",
+    "target_market": "国内（面向外贸B2B企业）",
+    "language": "中文"
+  },
+  "pillars": [
+    {
+      "id": "P1",
+      "name": "解决独立站视频播放卡顿",
+      "description": "针对外贸独立站视频播放卡顿、无法播放等核心痛点的解决方案",
+      "priority_score": 10,
+      "clusters": [
+        {
+          "id": "C1-1",
+          "name": "播放问题诊断",
+          "leaves": [
+            {
+              "id": "L1-1-1",
+              "title": "外贸独立站视频播放卡顿的5大原因",
+              "search_intent": "信息搜索",
+              "funnel_stage": "TOFU",
+              "priority_score": 9,
+              "recommended_publish_order": 1,
+              "platform_versions": ["官网版", "知乎版", "公众号版"]
+            },
+            {
+              "id": "L1-1-2",
+              "title": "如何检测网站视频加载速度？3个免费工具",
+              "search_intent": "如何做",
+              "funnel_stage": "TOFU",
+              "priority_score": 8,
+              "recommended_publish_order": 2,
+              "platform_versions": ["官网版", "知乎版"]
+            },
+            {
+              "id": "L1-1-3",
+              "title": "视频播放卡顿对B2B询盘的影响数据",
+              "search_intent": "信息搜索",
+              "funnel_stage": "TOFU",
+              "priority_score": 7,
+              "recommended_publish_order": 3,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L1-1-4",
+              "title": "从6.8秒到0.8秒：某外贸企业的视频加速案例",
+              "search_intent": "案例学习",
+              "funnel_stage": "MOFU",
+              "priority_score": 8,
+              "recommended_publish_order": 4,
+              "platform_versions": ["官网版", "知乎版"]
+            }
+          ]
+        },
+        {
+          "id": "C1-2",
+          "name": "加速解决方案",
+          "leaves": [
+            {
+              "id": "L1-2-1",
+              "title": "视频CDN加速原理，外贸老板能看懂的版",
+              "search_intent": "信息搜索",
+              "funnel_stage": "TOFU",
+              "priority_score": 7,
+              "recommended_publish_order": 5,
+              "platform_versions": ["官网版", "公众号版"]
+            },
+            {
+              "id": "L1-2-2",
+              "title": "外贸独立站选Cloudflare还是BunnyCDN？",
+              "search_intent": "产品对比",
+              "funnel_stage": "MOFU",
+              "priority_score": 8,
+              "recommended_publish_order": 6,
+              "platform_versions": ["官网版", "知乎版"]
+            },
+            {
+              "id": "L1-2-3",
+              "title": "懒加载技术让视频加载快3倍",
+              "search_intent": "如何做",
+              "funnel_stage": "TOFU",
+              "priority_score": 6,
+              "recommended_publish_order": 7,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L1-2-4",
+              "title": "外贸视频CDN加速，7天见效的方案",
+              "search_intent": "商业调查",
+              "funnel_stage": "BOFU",
+              "priority_score": 10,
+              "recommended_publish_order": 8,
+              "platform_versions": ["官网版"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "name": "视频托管方案",
+      "description": "外贸独立站视频托管的选择、对比和实施方案",
+      "priority_score": 9,
+      "clusters": [
+        {
+          "id": "C2-1",
+          "name": "托管平台对比",
+          "leaves": [
+            {
+              "id": "L2-1-1",
+              "title": "Vimeo vs Wistia vs Mux：外贸站怎么选？",
+              "search_intent": "产品对比",
+              "funnel_stage": "MOFU",
+              "priority_score": 9,
+              "recommended_publish_order": 9,
+              "platform_versions": ["官网版", "知乎版"]
+            },
+            {
+              "id": "L2-1-2",
+              "title": "自建视频托管 vs 第三方平台，成本对比",
+              "search_intent": "产品对比",
+              "funnel_stage": "MOFU",
+              "priority_score": 8,
+              "recommended_publish_order": 10,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L2-1-3",
+              "title": "免费视频托管平台，外贸小企业的选择",
+              "search_intent": "产品搜索",
+              "funnel_stage": "TOFU",
+              "priority_score": 8,
+              "recommended_publish_order": 11,
+              "platform_versions": ["官网版", "知乎版"]
+            },
+            {
+              "id": "L2-1-4",
+              "title": "视频托管平台隐藏费用清单",
+              "search_intent": "信息搜索",
+              "funnel_stage": "TOFU",
+              "priority_score": 6,
+              "recommended_publish_order": 12,
+              "platform_versions": ["官网版"]
+            }
+          ]
+        },
+        {
+          "id": "C2-2",
+          "name": "嵌入与集成",
+          "leaves": [
+            {
+              "id": "L2-2-1",
+              "title": "视频嵌入独立站的5种方式",
+              "search_intent": "如何做",
+              "funnel_stage": "TOFU",
+              "priority_score": 8,
+              "recommended_publish_order": 13,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L2-2-2",
+              "title": "YouTube视频嵌入代码教程（外贸适用）",
+              "search_intent": "如何做",
+              "funnel_stage": "TOFU",
+              "priority_score": 7,
+              "recommended_publish_order": 14,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L2-2-3",
+              "title": "自定义视频播放器，提升品牌专业度",
+              "search_intent": "如何做",
+              "funnel_stage": "MOFU",
+              "priority_score": 6,
+              "recommended_publish_order": 15,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L2-2-4",
+              "title": "视频嵌入与SEO，你应该知道的4个技巧",
+              "search_intent": "信息搜索",
+              "funnel_stage": "TOFU",
+              "priority_score": 8,
+              "recommended_publish_order": 16,
+              "platform_versions": ["官网版", "知乎版"]
+            }
+          ]
+        },
+        {
+          "id": "C2-3",
+          "name": "外贸专属方案",
+          "leaves": [
+            {
+              "id": "L2-3-1",
+              "title": "专为外贸B2B设计的视频托管方案",
+              "search_intent": "产品搜索",
+              "funnel_stage": "BOFU",
+              "priority_score": 10,
+              "recommended_publish_order": 17,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L2-3-2",
+              "title": "多语言网站视频托管注意事项",
+              "search_intent": "如何做",
+              "funnel_stage": "TOFU",
+              "priority_score": 7,
+              "recommended_publish_order": 18,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L2-3-3",
+              "title": "外贸视频托管，SaaS+服务模式详解",
+              "search_intent": "商业调查",
+              "funnel_stage": "BOFU",
+              "priority_score": 9,
+              "recommended_publish_order": 19,
+              "platform_versions": ["官网版"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P3",
+      "name": "外贸视频营销",
+      "description": "外贸独立站视频营销的获客策略与实战案例",
+      "priority_score": 8,
+      "clusters": [
+        {
+          "id": "C3-1",
+          "name": "营销策略",
+          "leaves": [
+            {
+              "id": "L3-1-1",
+              "title": "2026外贸视频营销趋势，老板必看",
+              "search_intent": "信息搜索",
+              "funnel_stage": "TOFU",
+              "priority_score": 8,
+              "recommended_publish_order": 20,
+              "platform_versions": ["官网版", "公众号版"]
+            },
+            {
+              "id": "L3-1-2",
+              "title": "B2B外贸视频营销的5个有效策略",
+              "search_intent": "如何做",
+              "funnel_stage": "TOFU",
+              "priority_score": 9,
+              "recommended_publish_order": 21,
+              "platform_versions": ["官网版", "知乎版"]
+            },
+            {
+              "id": "L3-1-3",
+              "title": "外贸视频选题指南：客户关心什么？",
+              "search_intent": "如何做",
+              "funnel_stage": "TOFU",
+              "priority_score": 7,
+              "recommended_publish_order": 22,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L3-1-4",
+              "title": "产品介绍视频怎么做才能打动海外客户？",
+              "search_intent": "如何做",
+              "funnel_stage": "TOFU",
+              "priority_score": 8,
+              "recommended_publish_order": 23,
+              "platform_versions": ["官网版", "知乎版"]
+            }
+          ]
+        },
+        {
+          "id": "C3-2",
+          "name": "多渠道分发",
+          "leaves": [
+            {
+              "id": "L3-2-1",
+              "title": "外贸视频发LinkedIn还是YouTube？",
+              "search_intent": "产品对比",
+              "funnel_stage": "TOFU",
+              "priority_score": 7,
+              "recommended_publish_order": 24,
+              "platform_versions": ["官网版", "知乎版"]
+            },
+            {
+              "id": "L3-2-2",
+              "title": "视频+邮件营销，打开率提升50%的秘密",
+              "search_intent": "如何做",
+              "funnel_stage": "MOFU",
+              "priority_score": 7,
+              "recommended_publish_order": 25,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L3-2-3",
+              "title": "外贸视频内容矩阵搭建指南",
+              "search_intent": "如何做",
+              "funnel_stage": "TOFU",
+              "priority_score": 6,
+              "recommended_publish_order": 26,
+              "platform_versions": ["官网版"]
+            }
+          ]
+        },
+        {
+          "id": "C3-3",
+          "name": "实战案例",
+          "leaves": [
+            {
+              "id": "L3-3-1",
+              "title": "3个外贸视频营销成功案例拆解",
+              "search_intent": "案例学习",
+              "funnel_stage": "MOFU",
+              "priority_score": 8,
+              "recommended_publish_order": 27,
+              "platform_versions": ["官网版", "知乎版"]
+            },
+            {
+              "id": "L3-3-2",
+              "title": "从0到1：某外贸工厂的视频营销之路",
+              "search_intent": "案例学习",
+              "funnel_stage": "MOFU",
+              "priority_score": 7,
+              "recommended_publish_order": 28,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L3-3-3",
+              "title": "视频营销ROI计算，外贸老板怎么看？",
+              "search_intent": "如何做",
+              "funnel_stage": "BOFU",
+              "priority_score": 9,
+              "recommended_publish_order": 29,
+              "platform_versions": ["官网版"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P4",
+      "name": "效果与转化",
+      "description": "外贸视频的SEO优化、效果追踪与转化提升",
+      "priority_score": 9,
+      "clusters": [
+        {
+          "id": "C4-1",
+          "name": "视频SEO",
+          "leaves": [
+            {
+              "id": "L4-1-1",
+              "title": "视频SEO vs YouTube SEO，外贸站怎么双管齐下",
+              "search_intent": "如何做",
+              "funnel_stage": "TOFU",
+              "priority_score": 8,
+              "recommended_publish_order": 30,
+              "platform_versions": ["官网版", "知乎版"]
+            },
+            {
+              "id": "L4-1-2",
+              "title": "视频标题和描述的关键词布局技巧",
+              "search_intent": "如何做",
+              "funnel_stage": "TOFU",
+              "priority_score": 7,
+              "recommended_publish_order": 31,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L4-1-3",
+              "title": "视频缩略图对点击率的影响",
+              "search_intent": "信息搜索",
+              "funnel_stage": "TOFU",
+              "priority_score": 6,
+              "recommended_publish_order": 32,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L4-1-4",
+              "title": "独立站视频嵌入的SEO效果验证",
+              "search_intent": "商业调查",
+              "funnel_stage": "MOFU",
+              "priority_score": 7,
+              "recommended_publish_order": 33,
+              "platform_versions": ["官网版"]
+            }
+          ]
+        },
+        {
+          "id": "C4-2",
+          "name": "效果追踪",
+          "leaves": [
+            {
+              "id": "L4-2-1",
+              "title": "视频播放数据看哪些指标？",
+              "search_intent": "信息搜索",
+              "funnel_stage": "TOFU",
+              "priority_score": 7,
+              "recommended_publish_order": 34,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L4-2-2",
+              "title": "视频转化追踪设置教程",
+              "search_intent": "如何做",
+              "funnel_stage": "TOFU",
+              "priority_score": 6,
+              "recommended_publish_order": 35,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L4-2-3",
+              "title": "GA4视频事件追踪配置指南",
+              "search_intent": "如何做",
+              "funnel_stage": "TOFU",
+              "priority_score": 5,
+              "recommended_publish_order": 36,
+              "platform_versions": ["官网版"]
+            }
+          ]
+        },
+        {
+          "id": "C4-3",
+          "name": "转化优化",
+          "leaves": [
+            {
+              "id": "L4-3-1",
+              "title": "视频看完率与询盘转化率的关系",
+              "search_intent": "信息搜索",
+              "funnel_stage": "TOFU",
+              "priority_score": 7,
+              "recommended_publish_order": 37,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L4-3-2",
+              "title": "视频中添加CTA按钮，询盘提升30%",
+              "search_intent": "如何做",
+              "funnel_stage": "MOFU",
+              "priority_score": 8,
+              "recommended_publish_order": 38,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L4-3-3",
+              "title": "外贸视频转化率提升实战方案",
+              "search_intent": "商业调查",
+              "funnel_stage": "BOFU",
+              "priority_score": 10,
+              "recommended_publish_order": 39,
+              "platform_versions": ["官网版"]
+            },
+            {
+              "id": "L4-3-4",
+              "title": "视频营销ROI计算器，外贸老板一算就懂",
+              "search_intent": "商业调查",
+              "funnel_stage": "BOFU",
+              "priority_score": 9,
+              "recommended_publish_order": 40,
+              "platform_versions": ["官网版"]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "total_pillars": 4,
+    "total_clusters": 11,
+    "total_leaves": 40,
+    "tofu_count": 20,
+    "mofu_count": 11,
+    "bofu_count": 9,
+    "bofu_percentage": "22.5%"
+  }
+}
