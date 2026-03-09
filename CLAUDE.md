@@ -6,7 +6,9 @@
 
 - `需求说明书.md` — 完整 PRD，包含状态机设计、Tool 规格、双市场策略
 - `营销方法论.md` — 理论基础（HubSpot 话题集群 + Koray 语义权威地图）
-- `.cursor/skills/topic-tree-architect/` — Skill 实现文件
+- `.cursor/skills/topic-tree-architect/` — 话题树 Skill
+- `.cursor/skills/seo-performance-tracker/` — SEO 表现跟踪 Skill（GSC/GA4/Bing 接入与自然语言查数据）
+- `.cursor/skills/read-psi-analysis/` — PSI 数据读取与分析 Skill（PageSpeed、Core Web Vitals、性能/SEO 评分与优化建议）
 
 ## 话题树构建智能体（Topic Tree Architect）
 

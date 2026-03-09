@@ -1,0 +1,9 @@
+{
+  "name": "read-psi-analysis-scripts",
+  "description": "PSI fetch scripts dependency (undici for proxy)",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "undici": "^6.0.0"
+  }
+}
